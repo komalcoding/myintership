@@ -32,7 +32,7 @@ h1{
   background-color: cadetblue;
 }
 .homeStyle{
-  border:1px solid black ;
+  border:1px solid blue ;
   max-height: 600px;
   overflow-y: scroll;
 }
